@@ -79,8 +79,10 @@ p {
 
 .poster {
     max-height: 60vh;
-    margin-left: 10px;
+    margin-left: 40%;
     margin-top: 30vh;
+    margin-right: 40%;
+    text-align: center;
 }
 
 ul {
@@ -101,6 +103,7 @@ ul {
     width: 33%;
     height: 73vh;
     text-align: center;
+    vertical-align: middle;
 }
 
 #direita {
@@ -117,7 +120,7 @@ ul {
 #rodape {
     max-height: 500px;
     float: left;
-    margin: 75vh 65% 0 0;
+    margin: 10vh 65% 0 0;
 }
 
 #baixo {
@@ -129,4 +132,17 @@ ul {
 #fundo {
     text-align: center;
     margin-top: 5px;
+}
+
+#centro {
+    text-align: center;
+}
+
+#centrobaixo {
+    text-align: center;
+    margin-top: 50vh;
+}
+
+#fala {
+    margin-top: 30vh;
 }
